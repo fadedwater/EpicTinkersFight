@@ -1,0 +1,7 @@
+{
+    "pack":{
+        "pack_format":9,
+        "description":"加入了史诗战斗与一些模组的兼容性\n包括匠魂3及一些附属以及mvw",
+        "supported_formats":[9,15]
+        }
+}
