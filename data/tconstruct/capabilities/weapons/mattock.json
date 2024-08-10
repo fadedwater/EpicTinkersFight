@@ -3,8 +3,9 @@
 	{
 		"common":
 		{
-			"impact":-0.4
+			"armor_negation":18.0,
+			"impact":0.7
 		}
 	},
-	"type":"hoe"
+	"type":"pickaxe"
 }

@@ -3,8 +3,7 @@
 	{
 		"common":
 		{
-			"armor_negation": 15.0,
-			"impact":-0.4
+			"impact":2.0
 		}
 	},
 	"type":"hoe"

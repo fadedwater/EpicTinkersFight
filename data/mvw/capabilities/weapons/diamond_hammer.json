@@ -3,6 +3,7 @@
 	{
 		"common":
 		{
+			"armor_negation":18.0,
 			"impact":2.0
 		}
 	},

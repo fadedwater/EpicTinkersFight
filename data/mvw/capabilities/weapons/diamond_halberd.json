@@ -3,8 +3,8 @@
 	{
 		"common":
 		{
-			"armor_negation":5.0,
-			"impact":1.2
+			"armor_negation":30.0,
+			"impact":2.6
 		}
 	},
 	"type":"axe"

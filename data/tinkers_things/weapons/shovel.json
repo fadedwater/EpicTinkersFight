@@ -3,8 +3,8 @@
 	{
 		"common":
 		{
-			"impact":0.5
+			"impact":2.0
 		}
 	},
-	"type":"bow"
+	"type":"shovel"
 }
